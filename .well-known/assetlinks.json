@@ -1,0 +1,13 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "net.aleksandre.android.whereami",
+      "sha256_cert_fingerprints": [
+        "74:C0:DC:BA:6C:E8:2A:10:BD:C5:10:5C:AD:64:94:69:A2:D1:9D:94:6B:B2:79:5C:E4:74:D9:E3:91:2B:A9:B6",
+        "43:BB:45:6E:7D:82:4A:AF:F0:41:4F:8B:EF:D0:BF:0C:8A:CB:52:33:DB:75:D6:79:BB:9D:F0:14:3C:23:F9:60"
+      ]
+    }
+  }
+]
